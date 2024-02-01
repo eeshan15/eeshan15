@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Eeshan Bablani</h1>
 <h3 align="center">A Data science enthusiast from India</h3>
 
-<img align ="right" alt="coding" width="800" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img align ="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbV9XVG5TN1hSX1c0ajdmQmtiVWZ6YkkwYWI2Z3xBQ3Jtc0tuQzdkTDZWbWx4cDNOdnBtTmg4UzFyQXRqR2JUYV8zVnNjbk1ybjRydzFCbFlQSkVGSW9xQTdhYnV4clhRNkEwWS1BRi13dlNYcllabXJIRnh0YkE5SXNqS3JmS29SaFpJbVBndEtNVkpOT3c3c2ZwQQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eeshan15&label=Profile%20views&color=0e75b6&style=flat" alt="eeshan15" /> </p>
 
