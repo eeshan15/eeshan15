@@ -26,6 +26,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eeshan15&show_icons=true&locale=en&layout=compact" alt="eeshan15" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eeshan15&show_icons=true&locale=en" alt="eeshan15" /></p>
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/G_Y5M4y8TyGfceTD2KcrhQ?identity__email=eeshanbablani475%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/G_Y5M4y8TyGfceTD2KcrhQ/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>Nov 9, 2024</p></blockquote>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eeshan15&" alt="eeshan15" /></p>
 <p><img align="center" src="https://holopin.me/eeshan15" alt="eeshan15" /></p>
