@@ -26,6 +26,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eeshan15&show_icons=true&locale=en&layout=compact" alt="eeshan15" /></p>
 
 <p><img align="center" src="https://media.badgr.com/uploads/badges/assertion-G_Y5M4y8TyGfceTD2KcrhQ.png?versionId=ylj7V7u81DhCJAQzGVH5zubXQCKDCLQ6" alt="eeshan15" /></p>
+
 <p><img align="center" src="https://api.badgr.io/public/assertions/G_Y5M4y8TyGfceTD2KcrhQ?identity__email=eeshanbablani475%40gmail.com" alt="eeshan15" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eeshan15&" alt="eeshan15" /></p>
 <p><img align="center" src="https://holopin.me/eeshan15" alt="eeshan15" /></p>
